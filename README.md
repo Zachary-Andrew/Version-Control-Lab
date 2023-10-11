@@ -23,5 +23,5 @@ After that, the program will check your age whether you're 21 or older and then 
 
 ## Git
 
-To download the lastest git do:
+To download the lastest git, run the following command in terminal:
 git clone git@github.com:Zachary-Andrew/Version-Control-Lab.git
